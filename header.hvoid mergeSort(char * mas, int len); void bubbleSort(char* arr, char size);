@@ -1,0 +1,2 @@
+void mergeSort(char * mas, int len);
+void bubbleSort(char* arr, char size);
